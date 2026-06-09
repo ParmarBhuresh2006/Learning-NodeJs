@@ -21,7 +21,11 @@ else if(req.url.toLowerCase()==="/calculator")
     <form action='/result' method='POST'>
     <input type='Text' placeholder='First'name="first"/>
     <input type='Text' placeholder='Second'name="second"/>
-    <input type='Submit' value='Submit'></input>
+    <br>
+    <input type='Submit' value='Add' name="addition"></input>
+    <input type='Submit' value='Multiply' name="Multiplication"></input>
+    <input type='Submit' value='Subtract' name="Subtraction"></input>
+    <input type='Submit' value='Divide' name="Division"></input>
     </form>
     </body>
     </html>
