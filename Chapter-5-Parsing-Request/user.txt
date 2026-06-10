@@ -1,0 +1,3 @@
+{"username":"zeni agts","gender":"male"}
+{"username":"zeni","gender":"male"}
+{"username":"abc","gender":"female"}
